@@ -26,25 +26,28 @@
 		<!--[if lt IE 8]>
 			<p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
 		<![endif]-->
+	
+<div class="tm-sidebar-fixed tm-sidebar-togglebar">
 	<div class="tm-sidebar uk-visible-large">
+		
+        <a class="tm-sidebar-logo" href="">LOGO</a>
+        
 
-       
-        <a class="tm-sidebar-logo" href="#">Logo</a>
-       
-
-       
+        
         <nav class="tm-sidebar-nav">
-           asdasd
+           asdasdasdasd
         </nav>
         
 
-      
+        
 
-        <i class="tm-toggle-icon"></i>
+        <i class="tm-toggle-icon"></i>		
+	</div>	
 
-    </div>
+
+
 				
-		
+	<div class="tm-page">	
 		<div class="container-fluid page-container">
 			<?php do_action('before'); ?> 
 
